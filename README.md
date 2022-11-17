@@ -34,3 +34,6 @@ Experienced in micro-service architectures, API implementations and application 
 ### Skills
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes)
+
+
+![Ruben's github stats](https://github-readme-stats.vercel.app/api?username=rubentacastro02&show_icons=true&theme=dracula&hide=stars,issues)
